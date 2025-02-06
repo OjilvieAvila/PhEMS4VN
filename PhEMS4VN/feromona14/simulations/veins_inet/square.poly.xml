@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-09-13 10:00:11 by Eclipse SUMO netedit Version 1.16.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- Shapes -->
+    <poly id="blocker1" type="building" color="blue" fill="1" layer="4.00" shape="13.000000,13.000000 87.000000,13.000000 87.000000,87.000000 13.000000,87.000000 13.000000,13.000000"/>
+    <poly id="blocker2" type="building" color="red" fill="1" layer="4.00" shape="-13.000000,-13.000000 -87.000000,-13.000000 -87.000000,-87.000000 -13.000000,-87.000000 -13.000000,-13.000000"/>
+    <poly id="blocker3" type="building" color="yellow" fill="1" layer="4.00" shape="-13.000000,13.000000 -87.000000,13.000000 -87.000000,87.000000 -13.000000,87.000000 -13.000000,13.000000"/>
+    <poly id="blocker4" type="building" color="green" fill="1" layer="4.00" shape="13.000000,-13.000000 13.000000,-87.000000 87.000000,-87.000000 87.000000,-13.000000 13.000000,-13.000000"/>
+</additional>
